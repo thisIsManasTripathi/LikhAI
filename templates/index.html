@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>LikhAI</title>
+</head>
+
+<body>
+    <h1> <span style="color:#007cc9;">Likh</span><span style="color:#b0deff;">AI</span></h1>
+    <div class="container">
+        <div class="subLeft">
+            <canvas id="canvas" width="280px" , height="280px">
+            </canvas>
+        </div>
+
+        <div class="subRight">
+            <button type="submit" onclick="guess()" id="guessBtn">Guess</button>
+            <button type="submit" onclick="clearWin()" id="redrawBtn">Redraw</button>
+        </div>
+    </div>
+    <div id="results">
+        <p id="prediction"></p>
+        <p id="sub-prediction"></p>
+
+    </div>
+    <p id="pixelInp"></p>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-3.7.1.min.js') }}"></script>
+
+</body>
+
+</html>
