@@ -110,15 +110,15 @@ http://127.0.0.1:5000
 
 ### Main Interface
 
-> Add screenshot here
+> <img src="assets/home.png" width="700">
 
 ### Prediction Example
 
-> Add screenshot here
+> <img src="assets/pred1.png" width="700">
 
 ### Another Example
 
-> Add screenshot here
+> <img src="assets/pred2.png" width="700">
 
 ---
 
