@@ -82,7 +82,7 @@ Prediction + Confidence
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/thisIsManasTripathi/LikhAI
 cd LikhAI
 ```
 
