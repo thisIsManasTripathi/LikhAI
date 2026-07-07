@@ -114,7 +114,7 @@ http://127.0.0.1:5000
 
 ### Prediction Example
 
-<img src="assets/pred1.png" width="700">
+![Prediction](./assets/pred1.png)
 
 ### Another Example
 
