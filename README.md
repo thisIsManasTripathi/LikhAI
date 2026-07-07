@@ -110,15 +110,15 @@ http://127.0.0.1:5000
 
 ### Main Interface
 
-> <img src="assets/home.png" width="700">
+<img src="assets/home.png" width="700">
 
 ### Prediction Example
 
-> <img src="assets/pred1.png" width="700">
+<img src="assets/pred1.png" width="700">
 
 ### Another Example
 
-> <img src="assets/pred2.png" width="700">
+<img src="assets/pred2.png" width="700">
 
 ---
 
@@ -130,9 +130,9 @@ Currently, the input drawn on the **280×280 canvas** is resized to **28×28** b
 
 Improving the preprocessing pipeline (centering, normalization, better scaling, etc.) is something I plan to work on in future updates.
 
-> <img src="assets/limpred1.png" width="700">
+<img src="assets/limpred1.png" width="700">
 
-> <img src="assets/limpred2.png" width="700">
+<img src="assets/limpred2.png" width="700">
 
 ---
 
